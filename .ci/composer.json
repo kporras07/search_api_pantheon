@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "drush-ops/behat-drush-endpoint": "^9.4"
+    },
+    "repositories": {
+        "search_api_pantheon": {
+            "type": "vcs",
+            "url": "git@github.com:pantheon-systems/search_api_pantheon.git"
+        }
+    }
+}
